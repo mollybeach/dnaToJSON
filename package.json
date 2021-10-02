@@ -1,0 +1,12 @@
+{
+  "name": "dnatojson",
+  "version": "1.0.0",
+  "description": "take dna txt files and turn them into json files",
+  "main": "dnaToJSON.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Molly Beach",
+  "license": "MIT"
+}
